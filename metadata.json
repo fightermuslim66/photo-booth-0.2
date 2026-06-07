@@ -1,6 +1,6 @@
 {
-  "name": "Interactive AI Photo Booth",
-  "description": "An interactive photo booth with live camera, layout presets, virtual outfits, and professional AI-driven stylized filters and stickers powered by Gemini.",
+  "name": "photo-booth-interaktif",
+  "description": "Photo booth interaktif dengan galeri lokal, pilihan layout, filter, stiker, dan optimasi AI.",
   "requestFramePermissions": [
     "camera"
   ],
