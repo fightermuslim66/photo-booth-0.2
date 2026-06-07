@@ -1,0 +1,10 @@
+{
+  "name": "Interactive AI Photo Booth",
+  "description": "An interactive photo booth with live camera, layout presets, virtual outfits, and professional AI-driven stylized filters and stickers powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
